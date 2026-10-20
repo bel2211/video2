@@ -1,0 +1,21 @@
+{
+  "name": "simple",
+  "label": "Simple",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "Widget para reproducir video a partir de una URL ingresada por el usuario: YouTube, Vimeo, HTTP-FLV / WebSocket-FLV, HLS (.m3u8) y archivos MP4/WebM.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
